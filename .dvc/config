@@ -1,0 +1,4 @@
+[core]
+    remote = dvc_data_library
+['remote "dvc_data_library"']
+    url = /private/var/folders/k_/q2zlhjfx11q85jnc2tpm7p7c0000gn/T
