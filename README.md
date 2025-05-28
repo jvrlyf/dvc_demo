@@ -3,7 +3,7 @@
 
 This project focuses on using Git for code versioning and Data Version Control (DVC) for data versioning. It documents tasks completed to understand and implement key commands for managing code and data in a project, highlighting the differences between Git and DVC and their respective workflows.
 
-## Tasks Completed
+## Tasks
 
 ### 1. Understanding DVC and Git Differences
 
